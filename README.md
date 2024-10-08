@@ -87,7 +87,7 @@ Let’s connect to explore how I can contribute to driving your data initiatives
             <!-- Project 2 -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card h-100">
-                    <img src="images/projects/2.jpg" class="card-img-top" alt="Project 2 Image">
+                    <img src="projects/2.jpg" class="card-img-top" alt="Project 2 Image">
                     <div class="card-body">
                         <h5 class="card-title">Project 2</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
