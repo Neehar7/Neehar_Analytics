@@ -123,7 +123,7 @@ Let’s connect to explore how I can contribute to driving your data initiatives
             <!-- Skill 1: Python -->
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card h-100 text-center">
-                    <img src="images/skills/1.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="Python Icon">
+                    <img src="skills/1.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="Python Icon">
                     <div class="card-body">
                         <h5 class="card-title">Python</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
@@ -136,7 +136,7 @@ Let’s connect to explore how I can contribute to driving your data initiatives
             <!-- Skill 2: Data Visualization -->
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card h-100 text-center">
-                    <img src="images/skills/2.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="Data Visualization Icon">
+                    <img src="skills/2.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="Data Visualization Icon">
                     <div class="card-body">
                         <h5 class="card-title">Data Visualization</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
@@ -149,7 +149,7 @@ Let’s connect to explore how I can contribute to driving your data initiatives
             <!-- Skill 3: SQL -->
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card h-100 text-center">
-                    <img src="images/skills/3.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="SQL Icon">
+                    <img src="skills/3.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="SQL Icon">
                     <div class="card-body">
                         <h5 class="card-title">SQL</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
@@ -162,7 +162,7 @@ Let’s connect to explore how I can contribute to driving your data initiatives
             <!-- Skill 4: Data Storytelling -->
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="card h-100 text-center">
-                    <img src="images/skills/4.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="Data Storytelling Icon">
+                    <img src="skills/4.png" class="card-img-top mx-auto my-3" style="width: 50px;" alt="Data Storytelling Icon">
                     <div class="card-body">
                         <h5 class="card-title">Data Storytelling</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
