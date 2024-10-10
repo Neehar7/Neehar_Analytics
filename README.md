@@ -90,7 +90,7 @@ Let’s connect to explore how I can contribute to driving your data initiatives
                     <img src="projects/2.jpg" class="card-img-top" alt="Project 2 Image">
                     <div class="card-body">
                         <h5 class="card-title">Project 2</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
+                        <p class="card-text">The project aims to create an interactive dashboard that analyzes cricket match data from the years 2023 and 2024. It provides insights into player performance, team statistics, and match outcomes across various international tournaments, including the ICC World Cup 2023 and other major series.</p>
                     </div>
                     <div class="card-footer">
                         <a href="#" class="btn btn-primary btn-sm">Blog Post</a>
